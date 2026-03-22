@@ -1,0 +1,6 @@
+@PeiXin_BackendTest_MidLevel_HostAddress = http://localhost:5082
+
+GET {{PeiXin_BackendTest_MidLevel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
